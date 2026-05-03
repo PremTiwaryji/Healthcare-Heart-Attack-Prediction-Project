@@ -4,7 +4,7 @@ End-to-end healthcare data analysis project using Python and Tableau to extract 
 ---
 
 📷 Dashboard Preview
-![Dashboard](Dashboard.png)
+![Dashboard](Project_Thumbnail.png)
 
 ---
 
